@@ -1,0 +1,71 @@
+- Metasploit :
+‣ https://lnkd.in/d6pe8X9U
+
+- Nmap :
+‣ https://lnkd.in/d9TDm9mc
+‣ https://lnkd.in/dMveCe5t
+‣ https://lnkd.in/dpwUNVq4
+
+- Zenmap :
+‣ https://lnkd.in/ds7gwuZF
+
+- Wireshark :
+‣ https://lnkd.in/dfmVPAdW
+‣ https://lnkd.in/d5fFUM_p
+‣ https://lnkd.in/dpUUwkwX
+
+- SQLMap :
+‣ https://lnkd.in/d_z_Gyqz
+‣ https://lnkd.in/dDctvQ8A
+‣ https://lnkd.in/dpESNdPz
+‣ https://lnkd.in/dvtGg5Sg
+
+- OpenVas :
+‣ https://lnkd.in/dwVQgnpj
+‣ https://lnkd.in/dPQhVCFJ
+‣ https://lnkd.in/d5-fMp32
+‣ https://lnkd.in/ddaiX4Rk
+
+- Burp Suite :
+‣ https://lnkd.in/dipSw3BS
+‣ https://lnkd.in/d9M_KExu
+‣ https://lnkd.in/dxMKXNaF
+‣ https://lnkd.in/dDqaE894
+‣ https://lnkd.in/dN2VAPz5
+
+- John The Ripper :
+‣ https://lnkd.in/durtNaRG
+‣ https://lnkd.in/dBvPHrgN
+‣ https://lnkd.in/dTSU8N5T
+‣ https://lnkd.in/diCG8AWn
+
+- Maltego :
+‣ https://lnkd.in/dSXtVu6M
+‣ https://lnkd.in/dSe8pRSh
+‣ https://lnkd.in/dg2dN8F3
+
+- Nikto :
+‣ https://lnkd.in/dqpGsVif
+‣ https://lnkd.in/dePyyv7j
+‣ https://lnkd.in/dKwsjnB5
+‣ https://lnkd.in/dUxgCHSe
+
+ Aircrack - ng :
+‣ https://lnkd.in/dBRbYBfJ
+‣ https://lnkd.in/dzt8StdN
+‣ https://lnkd.in/dgyQSV_d
+
+- Nessus :
+‣ https://lnkd.in/dV9Rg6Wy
+‣ https://lnkd.in/d93yT64g
+
+- HashCat :
+‣ https://lnkd.in/draZT2aq
+‣ https://lnkd.in/dV9Rg6Wy
+‣ https://lnkd.in/db9Z_M-2
+
+- Hydra :
+‣ https://lnkd.in/d2QAgZcN
+‣ https://lnkd.in/d2fT2Bbu
+‣ https://lnkd.in/dfSZDAuz
+‣ https://lnkd.in/dNBWmef6
