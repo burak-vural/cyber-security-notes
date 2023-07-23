@@ -1,0 +1,67 @@
+
+1️⃣IP & URL Reputation
+🌀1. Virus Total : https://lnkd.in/eweERpju
+🌀2. URL Scan : https://urlscan.io/
+🌀3. AbuseIPDB: https://www.abuseipdb.com/
+🌀4. Cisco Talos: https://lnkd.in/g7uWdC5q
+🌀5. IBM X-Force: https://lnkd.in/gt8iyHE5
+🌀6. URL Filtering(Palo Alto): https://lnkd.in/e4bkm5Eq
+🌀7. URL Filtering(Symantec): https://lnkd.in/g4qQGsHG
+🌀8. IP Void: https://www.ipvoid.com/
+🌀9. URL Void: https://www.urlvoid.com/
+
+2️⃣File | Hash | Search | Analysis | Sandboxing
+🌀1. File Extension >>https://filesec.io/#
+🌀2. LOLBAS >>https://lnkd.in/dDa8XgiM
+🌀3. GTFOBins >>https://lnkd.in/dRVzVz87
+🌀4. File Hash Check >> https://lnkd.in/gNqxtn4d
+🌀5. Hash Search >> https://lnkd.in/eMjdTB2t
+🌀6. Hash Search >> https://www.malwares.com/
+🌀7. MetaDefender >> https://lnkd.in/e6r4mGv5
+🌀8. Kaspersky Threat Intel. >> https://lnkd.in/eSNMn7au
+🌀9. Cuckoo Sabdbox >> https://cuckoosandbox.org/
+🌀10. AnyRun >> Online sandboxing >> https://any.run/ 
+🌀11. Hybrid-Analysis >> https://lnkd.in/gaRGY8kB 
+🌀12. Joe Sandbox >> https://lnkd.in/gTJJ9GiC
+🌀13. VMRay Sandbox >> https://www.vmray.com/
+🌀14. Triage >> http://tria.ge/ 
+🌀15. Browser Sandbox >> https://lnkd.in/gjA-QqdX
+
+3️⃣ File hash
+🌀HashTools> Windows > https://lnkd.in/gTjru2RQ
+Powershell :
+🌀Get-FileHash -Path C:\path\to\file.txt -Algorithm MD5
+Get-FileHash -InputObject "This is a string" -Algorithm MD5
+🌀QuickHash > MacOS > https://lnkd.in/gZc8FYpU
+Terminal: shasum -a 256 filename
+
+4️⃣Find Suspicious Artifacts | Reverse Engineer | Debug Files
+🌀1. PeStudio: https://lnkd.in/gjYKbyge
+🌀2. CFF Explorer: https://lnkd.in/ggTCTeAi
+🌀3. DocGuard files: https://www.docguard.io/
+🌀4. File Scan: https://lnkd.in/ejBt5R7C
+🌀5. Ghidra >> https://ghidra-sre.org/
+🌀6. IDA Pro >>https://lnkd.in/eWA9MnMY
+🌀7. Radare2/Cutter >>https://lnkd.in/gV4k5Gsw
+https://lnkd.in/gdb3MQn2
+
+5️⃣Monitor System Resources | Detect malware
+🌀Process Hacker >> https://lnkd.in/gxV3PAnG
+🌀Process Monitor >> https://lnkd.in/gPqzyB7K
+🌀ProcDot >> https://www.procdot.com/
+🌀Autoruns >> https://lnkd.in/gkZqkZrd
+🌀TcpView >>https://lnkd.in/gQZM_SJz
+
+6️⃣Web proxy
+🌀Fiddler >> https://lnkd.in/gnJ9BvFN
+
+7️⃣Malware Samples - Abuse.ch 
+🌀MalwareBazaar ==> https://bazaar.abuse.ch/ 
+🌀FeodoTracker ==> https://lnkd.in/gyN_diCQ
+🌀SSLBlacklist ==> https://sslbl.abuse.ch/ 
+🌀URLHaus ==> https://urlhaus.abuse.ch/ 
+🌀ThreatFox ==> https://lnkd.in/gB2gDZUd
+🌀YARAIfy ==> https://yaraify.abuse.ch/
+
+8️⃣Malware Traffic | Pcap & Malware Samples
+🌀Samples.: https://lnkd.in/gw5hcXDp
